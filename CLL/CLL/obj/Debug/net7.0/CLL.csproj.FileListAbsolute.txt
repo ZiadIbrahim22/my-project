@@ -1,0 +1,15 @@
+C:\Users\zalrw\source\repos\CLL\CLL\bin\Debug\net7.0\CLL.exe
+C:\Users\zalrw\source\repos\CLL\CLL\bin\Debug\net7.0\CLL.deps.json
+C:\Users\zalrw\source\repos\CLL\CLL\bin\Debug\net7.0\CLL.runtimeconfig.json
+C:\Users\zalrw\source\repos\CLL\CLL\bin\Debug\net7.0\CLL.dll
+C:\Users\zalrw\source\repos\CLL\CLL\bin\Debug\net7.0\CLL.pdb
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.csproj.AssemblyReference.cache
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.AssemblyInfoInputs.cache
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.AssemblyInfo.cs
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.csproj.CoreCompileInputs.cache
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.dll
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\refint\CLL.dll
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.pdb
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\CLL.genruntimeconfig.cache
+C:\Users\zalrw\source\repos\CLL\CLL\obj\Debug\net7.0\ref\CLL.dll
